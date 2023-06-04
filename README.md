@@ -45,10 +45,10 @@ SERVER:
 
 OUTPUT:
 CLIENT:
-![image](https://github.com/aparnabalasubrmanian/19CS406-EX-1/assets/123351172/c90a403e-208c-4dd1-adc7-ae2e7ad6542b)
- 
+![c1](https://github.com/aparnabalasubrmanian/19CS406-EX-1/assets/123351172/fbd8521a-f08c-4129-9566-d085da74f623)
+
 SERVER:
-![image](https://github.com/aparnabalasubrmanian/19CS406-EX-1/assets/123351172/fa631216-3c14-45a4-a20a-9ac289e8d968)
+![s1](https://github.com/aparnabalasubrmanian/19CS406-EX-1/assets/123351172/b427ba75-3700-4208-94eb-198c22b222e6)
 
 
 RESULT:
